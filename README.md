@@ -1,6 +1,8 @@
 >[!NOTE]
 > **[📢 Sunsetting Router Mode (claude-code-router)`. →](https://github.com/KeygraphHQ/shannon/discussions/301)**
 
+> **Fork notice:** This is a fork of [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon). For upstream community support, feature discussions, and contributions to the original project, visit the upstream repository. Issues specific to this fork can be opened [here](https://github.com/byoniq/shannon/issues).
+
 <div align="center">
 
 <img src="./assets/github-banner.png" alt="Shannon — AI Pentester for Web Applications and APIs" width="100%">
